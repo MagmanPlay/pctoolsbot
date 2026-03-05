@@ -51,7 +51,7 @@
 pip install pyTelegramBotAPI comtypes mouse opencv-python psutil sounddevice numpy scipy Pillow pySmartDL pynput pycaw requests urllib3
 ```
 2. Настройка конфигурации
-Откройте скрипт PCToolsBot.py и измените базовые настройки в начале файла:
+Откройте скрипт PCToolsBot.py и измените базовые настройки на 183-184 строке в файле:
 
 ```Python
 my_id = 123456789  # Ваш Telegram ID (бот будет игнорировать всех остальных)
