@@ -1,0 +1,3 @@
+*.bat linguist-vendored
+*.py linguist-detectable=true
+*.json linguist-detectable=true
